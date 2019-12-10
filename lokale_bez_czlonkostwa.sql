@@ -1,7 +1,10 @@
 
 
 
-
+/*
+To nie jest gotowe
+mamy na razie punkty z klientami
+*/
 
 
 select 
